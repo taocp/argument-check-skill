@@ -1,0 +1,4 @@
+interface:
+  display_name: "论证检查"
+  short_description: "识别内容的明显论证错误，引用原文解释推断缺口，按需导出"
+  default_prompt: "使用 $argument-check 分析以下内容中的明显论证错误，逐项引用原文并解释推断缺口。"
